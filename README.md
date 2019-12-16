@@ -1,11 +1,13 @@
-# PDA-Project-
-Programming for Data Analytics Project Sept-Dec 2019
 
-### Project Intoduction:
+# Programming for Data Analytics Project Sept-Dec 2019
 
 This project involves the creation of a data set by simulating a real-world phenomenon. A phenomenon of my choose is selected and  rather than collect data related to this phenomenon, I will model and synthesise the data using Python. The numpy.random package will be used to help achieve these tasks . 
 
-### Project Plan/Objectives:
+
+# 1. ipybn file 
+This file contains the project and it's contents are outlined below:
+
+### Project Objectives
 
 • Choose a real-world phenomenon that can be measured and for which you could collect at least one-hundred data points across at least four diﬀerent variables.
 
@@ -13,16 +15,46 @@ This project involves the creation of a data set by simulating a real-world phen
 
 • Synthesise/simulate a data set as closely matching their properties as possible. 
 
-• Detail your research and implement the simulation in a Jupyter notebook – the data set itself can simply be displayed in an output cell within the notebook. 
+• Detail your research and implement the simulation in a Jupyter notebook – the data set itself can simply be displayed in an output cell within the notebook.
 
-### Repository Contents
+### Synthetic Data & Why It Is Important
+
+### What is the NumPy.Random Package?
+
+### Phenomenon of Choice: Irish Property Sales
+
+### Some Background Data on Irish Property
+
+### Statistics for Variables Choosen
+
+### Software Packages Used
+
+### PPR (csv): An Overview of Current Format
+
+### Synthetic Dataframe Creation
+
+Variables:
+- District
+- Property_Type
+- Property_Age
+- Bedroom #
+- Price 
+
+Systhesised Dataframe & Relationship Between Variables
+
+### Conclusion
+
+
+# 2. Other Repository Contents
 
 - README
 - ipynb file
 - gitignore
 - licence
+- png images 
+- PPR2019.csv file (contain data on property sales for 2019: 1st Jan - 6th Dec 2019)
 
-### Software Used / Download Instructions / How to access my repository
+# 3. Software Used / Download Instructions / How to access my repository
 
 _Instructions on how to download_:
 
